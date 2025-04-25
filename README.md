@@ -22,12 +22,12 @@ Clone the collaboration server:
 
 ## Customization Examples
 
-### 1. Set Pattern Matching for Conflict Handling by Admin
+### 1. Set Evaluaiton Rules for Inconsistency Handling by Admin
 
-### 2. Set Change Overlapping for Conflict Handling by Admin
+### 2. Set Evaluation Strategies by Admin
 
 ### 3. Configure A Client by User
 
-### 4. Configure Change Propagation for a Resource by User
+### 4. Configure Scope Defintion for a Model-View by User
 
 
